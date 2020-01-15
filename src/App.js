@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           :) Hello world of Piotr? Hurrrah!
+          This is feature branch
         </p>
 
         <a
